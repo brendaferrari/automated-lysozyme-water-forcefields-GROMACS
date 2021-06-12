@@ -7,7 +7,7 @@ The GROMOS force fields were not implemented in the main bash script to raise aw
 To run in this zipped file: Unpack this file, open the linux terminal and use the command
 
 ```
-./gromos-dynamics.s./h files/1aki.pdb files/
+./gromos-dynamics.sh files/1aki.pdb files/
 ```
 
 To run the script: open the linux terminal and use the command

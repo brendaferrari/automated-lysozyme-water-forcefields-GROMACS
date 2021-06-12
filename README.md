@@ -7,7 +7,7 @@ Script developed to run the commands of the "Lysozyme in Water" tutorial in grom
 To run in this zipped file: Unpack this file, open the linux terminal and use the command
 
 ```
-./script-dynamics.s./h files/1aki.pdb files/
+./script-dynamics.sh files/1aki.pdb files/
 ```
 
 To run the script: open the linux terminal and use the command
@@ -53,3 +53,6 @@ To run the script: open the linux terminal and use the command
 
 * Author: **Brenda Ferrari** [brendaferrari](https://github.com/brendaferrari)
 * Review: **Lucas Andrade** [lbertoncello](https://github.com/lbertoncello)
+
+Social preview original photo by <a href="https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Olivo</a> on <a href="https://unsplash.com/photos/gnyA8vd3Otc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
