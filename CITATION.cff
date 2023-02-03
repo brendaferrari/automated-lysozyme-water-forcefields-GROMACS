@@ -1,0 +1,11 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ferrari"
+  given-names: "Brenda"
+  orcid: "https://orcid.org/0000-0001-5609-0947"
+title: "automated-lysozyme-water-forcefields-GROMACS"
+version: 0.0.1
+doi: 10.5281/zenodo.7603643
+date-released: 2023-02-03
+url: "https://github.com/brendaferrari/automated-lysozyme-water-forcefields-GROMACS"
